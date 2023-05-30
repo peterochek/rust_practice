@@ -13,6 +13,6 @@ Raytracer written in pure idiological Rust. Performant and safe. Multithreaded b
 
 Сompleted tasks on proc-macros. [syn](https://github.com/dtolnay/syn), [quote](https://github.com/dtolnay/quote) and [proc-macro2](https://github.com/dtolnay/proc-macro2) libraries are actively used for codegeneration.
 
-[8-puzzle](./puzzle8-rust)
+[8-puzzle](./8-puzzle)
 
 8-puzzle game solver. A* algorithm is used to find optimal path. Implemented heuristics.
